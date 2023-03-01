@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">A passionate frontend developer from Cuba,I like minimalism, open source and personal development.</h3>
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **HTML CSS JavaScript ReactJS**
 
 - 📫 How to reach me **guillermoprogcc@gmail.com**
 
