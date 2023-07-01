@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">A passionate frontend developer from Cuba,I like minimalism, open source and personal development.</h3>
+<h1 align="center">Hey 👋,Soy Guillermo</h1>
+<h3 align="center">Un <b>desarrollador frontend</b> usando React.js y Next.js.</h3>
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React**
+- 💬 Habilidades **HTML,CSS,JavaScript,React,Nextjs,Redux,Tailwind**
 
-- 📫 How to reach me **guillezdev@gmail.com**
+- 📫 Como contactarme **guillezdev@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
