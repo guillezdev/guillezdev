@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋,Soy Guillermo</h1>
-<h3 align="center">Un <b>desarrollador frontend</b> usando React.js y Next.js.</h3>
+<h3 align="center"><b>Desarrollador frontend</b> usando React.js y Next.js.</h3>
 
 - 💬 Habilidades **HTML,CSS,JavaScript,React,Nextjs,Redux,Tailwind**
 
