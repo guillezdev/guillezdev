@@ -1,6 +1,14 @@
-<h1 align="center">Hey 👋 Soy Guillermo</h1>
-<h3 align="center">Desarrollador frontend.</h3>
+## 👋 Hola mundo, soy Guillermo
 
-- 💬 Habilidades **HTML,CSS,JavaScript,React,Nextjs,Redux,Tailwind**
+- 👨‍💻 Desarrollador Fronend.
+- 🌍 estoy radicado en la Matanzas 🇨🇺
+- ⭐️ Puedes ver mi trabajo en mi [Portafolio](https://guillezdev.netlify.app/) 
+- ✉️ Puedes contactarme guillezdev@gmail.com 
+  
 
-- 📫 Como contactarme **guillezdev@gmail.com**
+
+## 💻️ Tecnologías favoritas
+
+- JavaScript
+- React
+- Tailwind
