@@ -1,7 +1,7 @@
 ## 👋 Hola mundo, soy Guillermo
 
-- 👨‍💻 Desarrollador Fronend.
-- 🌍 Estoy radicado en la Matanzas 🇨🇺
+- 👨‍💻 Desarrollador Web Fronend.
+- 🌍 Estoy radicado en la Matanzas,Cuba
 - ⭐️ Puedes ver mi trabajo en mi [Portafolio](https://guillezdev.netlify.app/) 
 - ✉️ Puedes contactarme guillezdev@gmail.com 
   
