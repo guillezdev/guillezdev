@@ -9,6 +9,8 @@
 
 ## 💻️ Tecnologías favoritas
 
-- JavaScript
+- JavaScript/TypeScript
 - React
+- Material UI
 - Tailwind
+- React Hook form 
