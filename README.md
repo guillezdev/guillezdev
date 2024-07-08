@@ -19,8 +19,7 @@
 
 
   <img src="https://skillicons.dev/icons?i=react,javascript,typescript,redux,sass,tailwindcss,materialui,bootstrap" /><br>
-  <img src="https://skillicons.dev/icons?i=supabase,vitest" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,md," />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,md,supabase,vitest" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
