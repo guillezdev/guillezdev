@@ -1,16 +1,33 @@
-## 👋 Hola mundo, soy Guillermo
 
-- 👨‍💻 Desarrollador Web Fronend.
-- 🌍 Estoy radicando en Matanzas,Cuba.
-- ⭐️ Puedes ver mi trabajo en mi [Portafolio](https://guillezdev.netlify.app/) 
-- ✉️ Puedes contactarme a: guillezdev@gmail.com
-  
+<h1 align="center">
+    Hello, I'm Guillermo
+
+  </h1>
+
+<div align="center">
+
+💻Frontend Web Developer<br>
 
 
-## 💻️ Tecnologías favoritas
+[![portfolio](https://img.shields.io/badge/my_portfolio-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://guillezdev.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillezdev/)
 
-- JavaScript/TypeScript
-- React
-- Material UI
-- Tailwind
-- React Hook form 
+[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillezdev@gmail.com)
+</div >
+<div align="center">
+<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+
+
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,tailwindcss,materialui" /><br>
+  <img src="https://skillicons.dev/icons?i=github,figma,git" />
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <img  width=50% src="https://streak-stats.demolab.com/?user=guillezdev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img  width=50% src="https://github-readme-stats.vercel.app/api?username=guillezdev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guillezdev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
