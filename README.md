@@ -19,7 +19,7 @@
 
 
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,redux,sass,tailwindcss,materialui,bootstrap,express" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,md,supabase,vitest" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,md,supabase,vitest,typeorm" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
