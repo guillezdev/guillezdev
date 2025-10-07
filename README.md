@@ -6,7 +6,7 @@
 
 <div align="center">
 
-💻Frontend Web Developer<br>
+💻Full Stack Web Developer<br>
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://guillezdev.netlify.app/)
